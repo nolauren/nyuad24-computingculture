@@ -1,2 +1,6 @@
 # nyuad24-computingculture
 Computing Culture: An Introduction to Applied Methods in Data and Cultural Heritage for NYUAD WIDH 2024. January 2024.
+
+
+This course is an introduction to creating, organizing, and analyzing data to pose, develop, and answer questions guided by humanistic inquiry. In this workshop, you will get a sense of how to leverage computational methods to explore cultural heritage. You will learn how to approach data and integrate data-driven methods into cultural heritage research. You will also develop time-saving strategies for creating and organizing data, while exploring new methods of analysis. The workshop builds a solid foundation for future research by introducing a range of useful tools, methods, and concepts for managing, organizing, cleaning, and processing data in digital humanities projects. Sessions will cover information organization, data modeling, data quality and cleaning, and workflows. Participants will be introduced to cultural heritage data from a selection of real-world projects, and these datasets will serve as case studies for tools introduced in the course. The course may be of interest to humanities researchers, librarians, archivists, cultural heritage specialists, information professionals, and advanced graduate students.
+
