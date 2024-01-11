@@ -21,7 +21,7 @@ This course is an introduction to creating, organizing, and analyzing data to po
 ### Course Session 3 (1/17)
 - Data Visualization
 - [Flourish Tool](https://app.flourish.studio/)
-- Data available [here](https://github.com/nolauren/nyuad24-computingculture/tree/main/data) and also the [full FWP repo](https://github.com/distant-viewing/fwp-life-histories/tree/master).
+- Data available [here](https://github.com/nolauren/nyuad24-computingculture/tree/main/data) ,  [full FWP repo](https://github.com/distant-viewing/fwp-life-histories/tree/master) , and photogrammar [data set 1](   https://github.com/distant-viewing/photogrammar-data/blob/master/csv-files/fwp_metadata_20190330.csv) and [data set 2](https://github.com/distant-viewing/photogrammar-data/blob/master/csv-files/photo_metadata_20190330.csv).
 
 ### Course Session 4 (1/17)
 - Text Analysis
