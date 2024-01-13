@@ -15,20 +15,25 @@ This course is an introduction to creating, organizing, and analyzing data to po
 
 ### Course Session 2 (1/16)
 - Creating Data
-- Organizing Data: Tidy Data 
+- Organizing Data: Tidy Data
+- [Slides](https://docs.google.com/presentation/d/19Z3rkj5vFiXMseHeb00SuAPYG7LzQpzS/edit?usp=sharing&ouid=110133533536913300830&rtpof=true&sd=true)
 
 
 ### Course Session 3 (1/17)
+- EDA
 - Data Visualization
 - [Flourish Tool](https://app.flourish.studio/)
 - Data available [here](https://github.com/nolauren/nyuad24-computingculture/tree/main/data) ,  [full FWP repo](https://github.com/distant-viewing/fwp-life-histories/tree/master) , and photogrammar [data set 1](   https://github.com/distant-viewing/photogrammar-data/blob/master/csv-files/fwp_metadata_20190330.csv) and [data set 2](https://github.com/distant-viewing/photogrammar-data/blob/master/csv-files/photo_metadata_20190330.csv).
+- [Slides](https://docs.google.com/presentation/d/1cyEu-q2UCu-8I9leYZBGR6Ra0PHHkF3iZpjJihg5RcA/edit?usp=sharing)
 
 ### Course Session 4 (1/17)
 - Text Analysis
+- [Slides](https://docs.google.com/presentation/d/1cyEu-q2UCu-8I9leYZBGR6Ra0PHHkF3iZpjJihg5RcA/edit?usp=sharing)
 
 
 ### Course Session 5 (1/18)
-- Image Analysis 
+- Image Analysis
+- [Slides](https://docs.google.com/presentation/d/1Ki8k4Oa3bGPU3DG2gxFVN2YYd8qFo7qSMRRBdYw3C1k/edit?usp=sharing)
 
 
 ### Course Sesssion 6 (1/18)
