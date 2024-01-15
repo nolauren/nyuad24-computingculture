@@ -29,6 +29,7 @@ This course is an introduction to creating, organizing, and analyzing data to po
 ### Course Session 4 (1/17)
 - Text Analysis
 - [Slides](https://docs.google.com/presentation/d/1cyEu-q2UCu-8I9leYZBGR6Ra0PHHkF3iZpjJihg5RcA/edit?usp=sharing)
+- [Slides](Creating and Cleaning)
 
 
 ### Course Session 5 (1/18)
@@ -37,7 +38,8 @@ This course is an introduction to creating, organizing, and analyzing data to po
 
 
 ### Course Sesssion 6 (1/18)
-- Project Management 
+- Project Management
+- [Slides](https://docs.google.com/presentation/d/15Tc_LUfJ7FEB593xWbjSJjF-tMJRUe9Iccr7G8_bpnQ/edit?usp=sharing)
 
 
 
