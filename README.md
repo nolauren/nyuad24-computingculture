@@ -10,13 +10,14 @@ This course is an introduction to creating, organizing, and analyzing data to po
 - Introductions
 - Community Guidelines
 - What is data?
+- [Slides](https://docs.google.com/presentation/d/1hjYZ0A5bnD2aQMQIcIMS_9TmtHxd015a6LmWaMKGX2w/edit?usp=sharing)
 
  
 
 ### Course Session 2 (1/16)
 - Creating Data
 - Organizing Data: Tidy Data
-- [Slides](https://docs.google.com/presentation/d/19Z3rkj5vFiXMseHeb00SuAPYG7LzQpzS/edit?usp=sharing&ouid=110133533536913300830&rtpof=true&sd=true)
+- [Slides](https://docs.google.com/presentation/d/1hjYZ0A5bnD2aQMQIcIMS_9TmtHxd015a6LmWaMKGX2w/edit?usp=sharing)
 
 
 ### Course Session 3 (1/17)
