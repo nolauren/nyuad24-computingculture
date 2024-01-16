@@ -4,6 +4,8 @@ Computing Culture: An Introduction to Applied Methods in Data and Cultural Herit
 
 This course is an introduction to creating, organizing, and analyzing data to pose, develop, and answer questions guided by humanistic inquiry. In this workshop, we will get a sense of how to leverage computational methods to explore cultural heritage. we will learn how to approach data and integrate data-driven methods into cultural heritage research. We will also develop time-saving strategies for creating and organizing data, while exploring new methods of analysis. The workshop builds a solid foundation for future research by introducing a range of useful tools, methods, and concepts for managing, organizing, cleaning, and processing data in digital humanities projects. Sessions will cover information organization, data modeling, data quality and cleaning, and workflows. Participants will be introduced to cultural heritage data from a selection of real-world projects, and these datasets will serve as case studies for tools introduced in the course. The course may be of interest to humanities researchers, librarians, archivists, cultural heritage specialists, information professionals, and advanced graduate students.
 
+## [Collaborative Notes](https://docs.google.com/document/d/1x99tw1LZS-4gBKgDxzBsV9bHgHtnNzLNvpShdjbIpvw/edit#heading=h.l7i6hs7spo55)
+
 ## Schedule
 
 ### Course Session 1 (1/16)
